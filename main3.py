@@ -1,0 +1,2 @@
+#write in file using with()function
+with
